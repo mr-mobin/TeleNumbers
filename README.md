@@ -1,1 +1,3 @@
 # TeleNumbers
+JOIN NOW
+@TERMUX_LEARNING ;)
